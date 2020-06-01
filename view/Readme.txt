@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+The front-end of this project is based in a template of the bootstrap
 
 Template Name: Bootslander
 Template URL: https://bootstrapmade.com/bootslander-free-bootstrap-landing-page-template/
