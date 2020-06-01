@@ -1,0 +1,18 @@
+h11 {
+    color:red;
+}
+
+#logo {
+        width:50%;
+        height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+
+.panel-heading2{
+    font-size:250%;
+    text-align: center;
+    color: red;
+}
