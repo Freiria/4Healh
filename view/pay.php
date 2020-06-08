@@ -6,23 +6,23 @@
 <html>
 <head>
     <title>Pagamento</title>
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="public/img/favicon.ico" type="image/x-icon">
      <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
-  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
-  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="public/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="public/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="public/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="public/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="public/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="public/vendor/owl.carousel/public/owl.carousel.min.css" rel="stylesheet">
+  <link href="public/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/form.css" rel="stylesheet">
-    <link href="assets/css/style2.css" rel="stylesheet">
-    <script src="assets/js/f.js"></script>
+  <link href="public/css/form.css" rel="stylesheet">
+    <link href="public/css/style2.css" rel="stylesheet">
+    <script src="public/js/f.js"></script>
     </head>
     <body>
         <header id="header" class="fixed-top d-flex align-items-center">
