@@ -5,7 +5,7 @@
     <div class="logo mr-auto">
     <h1 class="text-light"><a href="index.html"><span>4health</span></a></h1>
     <!-- Uncomment below if you prefer to use an image logo -->
-    <!-- <a href="index.html"><img src="public/img/logo.png" alt="" class="img-fluid"></a>-->
+    <!-- <a href="index.html"><img src="<?php echo BASE_URL; ?>public/img/logo.png" alt="" class="img-fluid"></a>-->
     </div>
 
     <nav class="nav-menu d-none d-lg-block">

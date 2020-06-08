@@ -15,8 +15,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
- <link rel="shortcut icon" href="public/img/favicon.ico" type="image/x-icon">
-<link rel="icon" href="public/img/favicon.ico" type="image/x-icon">
+ <link rel="shortcut icon" href="<?php echo BASE_URL; ?>public/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="<?php echo BASE_URL; ?>public/img/favicon.ico" type="image/x-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -52,7 +52,7 @@
       <div class="logo mr-auto">
         <h1 class="text-light"><a href="index.html"><span>4health</span></a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="public/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.html"><img src="<?php echo BASE_URL; ?>public/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav class="nav-menu d-none d-lg-block">
@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="col-lg-5 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="300">
-          <img src="public/img/logo.png" class="img-fluid animated">
+          <img src="<?php echo BASE_URL; ?>public/img/logo.png" class="img-fluid animated">
         </div>
       </div>
     </div>
